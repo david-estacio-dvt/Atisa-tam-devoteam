@@ -1,0 +1,21 @@
+# Atisa - BPO / Financial Process Outsourcing Competitive Intelligence
+
+my_company:
+  name: "Atisa"
+  sector: "Externalización de Procesos Financieros (BPO)"
+  location: "España"
+  services:
+    - "Externalización contable y/o fiscal"
+    - "Revisión de cierre, cuentas anuales y libros oficiales"
+    - "Servicios Gestión SII (BPO)"
+    - "Fiscalidad puntual y trámites de agencia tributaria"
+    - "Digitalización de facturas de proveedores"
+    - "Coordinación internacional"
+    - "Remedy, Interim y Loan Staff"
+    - "Externalización de procesos contables específicos BPO"
+
+# Competitors will be auto-detected via Gemini web search.
+competitors:
+  - name: "Auxadi"
+  - name: "TMF Group"
+  - name: "Auren"
