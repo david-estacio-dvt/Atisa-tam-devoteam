@@ -1,0 +1,24 @@
+# Atisa - Financial Consulting Competitive Intelligence
+
+my_company:
+  name: "Atisa"
+  sector: "Consultoría Financiera"
+  location: "España"
+  services:
+    - "Consolidación de estados financieros"
+    - "Auditoría interna y revisión contable"
+    - "Controller financiero e Interim Management"
+    - "Soporte cambios regulatorios"
+    - "Informes Sostenibilidad ESG/EINF"
+    - "Due Diligence Financiera"
+    - "Valoraciones económicas"
+    - "Mapa de riesgos y rediseño de procesos"
+    - "Planes de viabilidad"
+    - "Implantaciones ERP y conciliación contable"
+
+# Competitors will be auto-detected via Gemini web search.
+# Add known competitors here as seeds.
+competitors:
+  - name: "BDO"
+  - name: "Grant Thornton"
+  - name: "Mazars"
