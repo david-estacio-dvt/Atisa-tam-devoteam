@@ -1,0 +1,54 @@
+my_company:
+  name: "Atisa"
+  website: "https://www.atisa.es"
+  services:
+    - "Externalización de Nómina"
+    - "Consultoría de RRHH"
+    - "Gestión de Talento"
+    - "Externalización de procesos financieros"
+
+competitors:
+  - name: "PayFit"
+    website: "https://payfit.com/es/"
+    type: "Especialista"
+    focus_areas:
+      - "Software de Nóminas"
+      - "Gestión de RRHH"
+    mock_metrics:
+      visibility: 65
+      sentiment: "Positivo"
+      topic: "Eficiencia"
+
+  - name: "Randstad"
+    website: "https://www.randstad.es"
+    type: "Generalista"
+    focus_areas:
+      - "Recursos Humanos"
+      - "Trabajo Temporal"
+      - "Outsourcing"
+    mock_metrics:
+      visibility: 85
+      sentiment: "Neutro"
+      topic: "Empleo Temporal"
+
+  - name: "Adecco"
+    website: "https://www.adecco.es"
+    type: "Generalista"
+    focus_areas:
+      - "Recursos Humanos"
+      - "Formación"
+      - "Consultoría"
+    mock_metrics:
+      visibility: 80
+      sentiment: "Positivo"
+      topic: "Formación"
+
+analysis_settings:
+  brand24_metrics:
+    - "Sentiment Analysis"
+    - "Visibility Score"
+    - "Mentions Count"
+  search_keywords:
+    - "externalización de nómina precios"
+    - "servicios consultoría rrhh madrid"
+    - "gestión de talento herramientas"

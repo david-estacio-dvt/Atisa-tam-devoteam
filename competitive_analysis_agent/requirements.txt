@@ -1,0 +1,13 @@
+google-adk
+google-cloud-aiplatform
+python-dotenv
+pandas
+requests
+beautifulsoup4
+openpyxl
+python-pptx
+google-api-python-client
+flask
+gunicorn
+streamlit
+nest_asyncio
