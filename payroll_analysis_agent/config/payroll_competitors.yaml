@@ -1,0 +1,21 @@
+# Atisa - Payroll & HR Administration Competitive Intelligence
+
+my_company:
+  name: "Atisa"
+  sector: "Externalización de Nómina y Administración de Personal"
+  location: "España"
+  services:
+    - "Gestión integral de nómina (core business)"
+    - "Portal comunicación / App empleados"
+    - "Administración de personal"
+    - "Asesoramiento laboral"
+    - "Control de tiempos y fichaje"
+    - "Planificación de turnos"
+    - "Retribución flexible"
+    - "RPAs (Automatización Robótica de Procesos)"
+
+# Competitors auto-detected via Gemini web search + seeds
+competitors:
+  - name: "Personio"
+  - name: "PayFit"
+  - name: "Factorial"
